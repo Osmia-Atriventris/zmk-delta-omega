@@ -71,43 +71,43 @@
             key-positions = <17 18 19>;
         };
 
-        G_L_Oneshot {
-            bindings = <&sk LEFT_WIN>;
+        G_L {
+            bindings = <&kp LEFT_WIN>;
             key-positions = <10 20>;
         };
 
-        G_R_Oneshot {
-            bindings = <&sk LEFT_WIN>;
+        G_R {
+            bindings = <&kp LEFT_WIN>;
             key-positions = <29 19>;
         };
 
-        A_L_Oneshot {
-            bindings = <&sk LEFT_ALT>;
+        A_L {
+            bindings = <&kp LEFT_ALT>;
             key-positions = <11 21>;
         };
 
-        A_R_Oneshot {
-            bindings = <&sk RIGHT_ALT>;
+        A_R {
+            bindings = <&kp RIGHT_ALT>;
             key-positions = <18 28>;
         };
 
-        C_L_Oneshot {
-            bindings = <&sk LCTRL>;
+        C_L {
+            bindings = <&kp LCTRL>;
             key-positions = <12 22>;
         };
 
-        C_R_Oneshot {
-            bindings = <&sk LCTRL>;
+        C_R {
+            bindings = <&kp LCTRL>;
             key-positions = <17 27>;
         };
 
-        S_L_Oneshot {
-            bindings = <&sk LEFT_SHIFT>;
+        S_L {
+            bindings = <&kp LEFT_SHIFT>;
             key-positions = <13 23>;
         };
 
-        S_R_Oneshot {
-            bindings = <&sk RIGHT_SHIFT>;
+        S_R {
+            bindings = <&kp RIGHT_SHIFT>;
             key-positions = <16 26>;
         };
     };
